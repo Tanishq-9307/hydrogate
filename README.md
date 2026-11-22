@@ -35,6 +35,9 @@ on and off when the water sits near a threshold.
 | Alerts | Buzzer, LED |
 | Build | Breadboard + jumper wires |
 
+<p align="center"><img src="docs/images/hardware_setup.jpg" width="600" alt="HydroGate hardware — ESP32, HC-SR04, servo, relay, buzzer and LED on a breadboard"></p>
+<p align="center"><img src="docs/images/hardware_setup_2.jpg" width="600" alt="HydroGate circuit — second view of the breadboard setup"></p>
+
 ## Pin map
 
 | Signal | ESP32 pin |
